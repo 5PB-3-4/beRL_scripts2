@@ -6,9 +6,9 @@
 本スクリプトのご利用には以下が必要となります。
 
 ### テスト環境
-| name      | version        |
-| ---       | ---            |
-| Aviutl2   | version2 beta2 |
+| name           | version        |
+| ---            | ---            |
+| AviUtl ExEdit2 | version2 beta2 |
 
 <br>
 
