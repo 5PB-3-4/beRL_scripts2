@@ -31,6 +31,7 @@ AviUtl2のScriptフォルダに@berlsフォルダを入れてください。
 
 ## ◆注意点
 - ベイヤーマップについては`generate_bayer_map.py`を用いて生成しています。ご利用にはnumpy, opencv-pythonパッケージが必要です。
+- RGBとHSVの色空間の変換については[こちら](https://stackoverflow.com/questions/15095909/from-rgb-to-hsv-in-opengl-glsl)のコードを参照しています。
 
 <br>
 
