@@ -1,4 +1,5 @@
 # 減色ディザリングスクリプト ver[1.1.0]
+![result](https://github.com/5PB-3-4/beRL_scripts2/blob/main/dither/demo/reduction_dither_sample.png)
 
 ## ◆このスクリプトは何？
 1ピクセル単位で配列ディザリング（ベイヤー法）をします。出力後は8bitカラーになります。
