@@ -28,7 +28,7 @@ AviUtl2のScriptフォルダに@berlsフォルダを入れてください。
 <br>
 
 ## ◆注意点
-
+- ベイヤーマップについては`generate_bayer_map.py`を用いて生成しています。ご利用にはnumpy, opencv-pythonパッケージが必要です。
 
 <br>
 
